@@ -1,2 +1,2 @@
-# Exerc-cios_C-
+# Exercicios_C++
 Linguagem de programação - Exercícios de fixação
